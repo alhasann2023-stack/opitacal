@@ -1,0 +1,6 @@
+{
+  "name": "OptiCenter AI Pro",
+  "description": "Smart Optical Center Management Platform with AI Assistant, Patients, Refraction Measurements, Prescriptions, Contact Lenses, Frame Inventory, POS, Financial Accounting, and Lab Tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
